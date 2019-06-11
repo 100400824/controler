@@ -1,0 +1,8 @@
+com\test\App.class
+com\test\filter\FilterConfiguration.class
+com\test\Assist\ThreadMode$1.class
+com\test\Assist\ThreadRun.class
+com\test\Assist\RunCMD.class
+com\test\Assist\ThreadMode.class
+com\test\filter\CrossFilter.class
+com\test\API\Api.class
